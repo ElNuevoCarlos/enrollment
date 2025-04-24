@@ -76,8 +76,8 @@
                </columnResizePolicy>
             </TableView>
             <Button focusTraversable="false" layoutX="32.0" layoutY="382.0" mnemonicParsing="false" onAction="#handleDelete" style="-fx-background-color: RED;" text="Remove" />
-            <Text layoutX="5.0" layoutY="346.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select an item from the course table" wrappingWidth="214.8251953125" />
-            <Text fill="#837f7f" layoutX="60.0" layoutY="371.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Eliminate a course" />
+            <Text layoutX="38.0" layoutY="347.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select an item from the table" wrappingWidth="153.8251953125" />
+            <Text fill="#837f7f" layoutX="30.0" layoutY="369.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Remove a student from a course" />
             <Text fill="#615d5d" layoutX="315.0" layoutY="62.0" strokeType="OUTSIDE" strokeWidth="0.0" text="List of students with their courses">
                <font>
                   <Font name="Cambria" size="20.0" />
